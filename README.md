@@ -6,3 +6,6 @@ COPY invisible character here (ㅤ)
 </br>
 ### imports:
 https://pypi.org/project/requests
+
+### Video:
+https://youtu.be/haklqxeV9K8?si=lXETVVrjUsGX4Zyh
